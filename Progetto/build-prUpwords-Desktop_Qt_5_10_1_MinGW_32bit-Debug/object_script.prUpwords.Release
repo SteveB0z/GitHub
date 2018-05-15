@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\lobby.o
+./release\campodagioco.o
+./release\dizionario.o
+./release\giocatore.o
+./release\raccoglitore.o
+./release\sacchettino.o
+./release\tessera.o
+./release\listagiocatori.o
+./release\moc_mainwindow.o
+./release\moc_lobby.o
+);

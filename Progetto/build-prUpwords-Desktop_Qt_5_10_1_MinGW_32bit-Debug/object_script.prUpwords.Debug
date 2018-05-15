@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\lobby.o
+./debug\campodagioco.o
+./debug\dizionario.o
+./debug\giocatore.o
+./debug\raccoglitore.o
+./debug\sacchettino.o
+./debug\tessera.o
+./debug\listagiocatori.o
+./debug\moc_mainwindow.o
+./debug\moc_lobby.o
+);
